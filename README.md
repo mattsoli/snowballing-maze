@@ -28,3 +28,4 @@ All the assets I used are free (to use too) and picked from [Unity Asset Store](
 * Skybox: [BOXOPHOBIC](https://assetstore.unity.com/publishers/20529)
 * Trees: [False Wisp Studios](https://assetstore.unity.com/packages/3d/vegetation/trees/snowy-low-poly-trees-76796)
 * Bushes: [Downtown Game Studio](https://assetstore.unity.com/packages/3d/vegetation/nature-pack-low-poly-trees-bushes-210184)
+* Music: [Danijel Zambo - Game Over](https://soundcloud.com/danijel-zambo/game-over)
